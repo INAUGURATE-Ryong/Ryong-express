@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/INAUGURATE-Ryong/Ryong-express/issues"
   },
-  "homepage": "https://github.com/INAUGURATE-Ryong/Ryong-express#readme"
+  "homepage": "https://github.com/INAUGURATE-Ryong/Ryong-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
